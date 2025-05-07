@@ -1,45 +1,59 @@
-# dnyanu09<h1 align="center">Hi 👋, I'm Dnyaneshwari R. Chede</h1>
+<h1 align="center">Hi 👋, I'm Dnyaneshwari R. Chede</h1>
 <h3 align="center">Aspiring Full-Stack Developer | .NET | Java | Frontend Designer</h3>
 
 ---
 
 ### 👩‍💻 About Me
-- 🎓 M.Sc. (Computer Science) – Dr. BAMU, Aurangabad (2022–2024)
-- 🌱 Currently learning: **.NET Core**, **Spring Boot**, **Frontend Frameworks**
-- 💬 Ask me about: **ASP.NET**, **Java**, **HTML/CSS**, **SQL**
-- ⚡ Fun fact: I love designing clean, responsive UI and learning by building.
+- 🎓 **M.Sc. Computer Science** — Dr. BAMU, Aurangabad (2022–2024)
+- 🌱 Currently diving into: **.NET Core**, **Spring Boot**, **Modern Frontend Frameworks**
+- 💬 Ask me about: **ASP.NET**, **Java**, **HTML/CSS/JavaScript**, **SQL**
+- ✨ I enjoy designing clean, user-friendly interfaces and learning by building real-world projects.
+- 🎯 Career Goal: Build scalable, maintainable, and impactful software applications.
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: C#, Java, Python
-- 🌐 Web: HTML5, CSS3, JavaScript
-- 🧰 Frameworks: ASP.NET, Spring Boot, Spring MVC
-- 🗄️ Databases: SQL Server, MySQL
-- 🔧 Tools: Visual Studio, VS Code, Eclipse
+
+#### 💻 Languages
+`C#` `Java` `Python`  
+
+#### 🌐 Web Technologies
+`HTML5` `CSS3` `JavaScript`  
+
+#### 🧰 Frameworks & Libraries
+`ASP.NET` `Spring Boot` `Spring MVC`  
+
+#### 🗄️ Databases
+`SQL Server` `MySQL`  
+
+#### 🔧 Tools & IDEs
+`Visual Studio` `VS Code` `Eclipse`  
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnyanu213&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanu213&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnyanu213&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanu213&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
-<p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dnyaneshwari-chede/" target="_blank">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:chedednyaneshwari866@gmail.com">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="35" alt="Email" />
   </a>
 </p>
 
-<br/><br/>
+---
 
-> “Passionate about creating impactful digital experiences through code.”
+> “Passionate about creating impactful digital experiences through code and design.”
 
